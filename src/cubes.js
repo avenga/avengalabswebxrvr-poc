@@ -144,7 +144,7 @@ function init() {
     renderer.setSize( window.innerWidth, window.innerHeight );
     renderer.outputEncoding = THREE.sRGBEncoding;
     renderer.xr.enabled = true;
-    //container.appendChild( renderer.domElement ); <-- div has beeen removed
+    
     document.body.appendChild(renderer.domElement);
 
     //
