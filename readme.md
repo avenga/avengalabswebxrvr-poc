@@ -6,7 +6,7 @@ It's a simple WebXR VR demo showing [Avenga](https://avenga.com) values in VR.
 
 [Here](https://avengalabs-webxrvr-74a6c21.wao.zone) you can see the working demo.
 
-[Here](https://youtu.be/mmJGd4VfP3M) you can see headset recorder video.
+[Here](https://youtu.be/mmJGd4VfP3M) you can see headset recorded video.
 
 ## How to build
 
